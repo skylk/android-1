@@ -40,7 +40,7 @@
   
   <project path="device/htc/pyramid" name="Flemmard/android_device_htc_pyramid" remote="github" revision="cm-11.0" />
   <project path="device/htc/msm8660-common" name="Flemmard/android_device_htc_msm8660-common" remote="github" revision="cm-11.0" />
-  <project path="kernel/htc/msm" name="Flemmard/android_kernel_msm" remote="github" revision="master" />
+  <project path="kernel/htc/msm8660" name="Flemmard/android_kernel_msm" remote="github" revision="master" />
   <project path="vendor/htc" name="Flemmard/proprietary_vendor_htc" remote="github" revision="cm-11.0" />
 
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
